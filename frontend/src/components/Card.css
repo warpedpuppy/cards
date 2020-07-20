@@ -1,0 +1,9 @@
+div.card {
+    width: 30px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 10px;
+    cursor: pointer;
+}

@@ -5,7 +5,7 @@ cardRouter
 .get('/', (req, res) => {
     res
     .status(200)
-    .send('success')
+    .json('success')
 })
 
 module.exports = cardRouter;
